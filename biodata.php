@@ -12,4 +12,3 @@ echo "Nama       : $nama\n";
 echo "No Matrik  : $nomatrik\n";
 echo "Kelas      : $kelas\n";
 echo "Program    : $program\n";
-?>
