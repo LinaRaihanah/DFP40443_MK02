@@ -1,4 +1,5 @@
 <?php
+/*biodata pelajar*/
 $nama = "AMALINA RAIHANAH BINTI ROHIMI";
 $nomatrik = "18DIT24F1027";
 $kelas = "DIT4A";
