@@ -1,19 +1,7 @@
-/*Design pelajar*/
+/* Design pelajar */
 body {
     font-family: Arial, sans-serif;
     background-color: #ff7d7d;
-    text-align: center;
-}
-
-.container {
-    background: white;
-    width: 400px;
-    margin: 50px auto;
-    padding: 20px;
-    border-radius: 10px;
-}
-
-img {
-    width: 150px;
-    border-radius: 50%;
+    padding: 40px;
+    color: #000;
 }
